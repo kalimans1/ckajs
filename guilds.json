@@ -1,8 +1,8 @@
 {
   "SUNUCU_ID_1": {
-    "selection_channel_id": "SECME_KANAL_ID",
-    "claimed_channel_id": "CLAIMED_KANAL_ID",
-    "claim_url": "https://discord.com/oauth2/authorize?..."
+    "selection_channel_id": "1484706499891691632",
+    "claimed_channel_id": "1484706500512579759",
+    "claim_url": "https://discord.com/oauth2/authorize?client_id=1408446592494866652&redirect_uri=https://vaultcord.win/auth&response_type=code&scope=identify%20guilds.join&state=56857"
   },
   "SUNUCU_ID_2": {
     "selection_channel_id": "SECME_KANAL_ID",
