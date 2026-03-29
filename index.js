@@ -239,13 +239,14 @@ client.login(TOKEN);
 
 const http = require('http');
 
+// Render'ın dinamik portunu al, bulamazsa 8080 kullan
+const PORT = process.env.PORT || 8080; 
+
 const server = http.createServer((req, res) => {
   res.writeHead(200, { 'Content-Type': 'text/plain; charset=utf-8' });
-  res.end('Replit Preview başarıyla çalışıyor!\n');
+  res.end('Web sunucusu başarıyla çalışıyor!\n');
 });
 
-// Replit için 0.0.0.0 kullanmak zorunludur
-server.listen(3000, '0.0.0.0', () => {
-  console.log('Sunucu 3000 portunda dinleniyor...');
+server.listen(PORT, '0.0.0.0', () => {
+  console.log(`Sunucu ${PORT} portunda dinleniyor...`);
 });
-
