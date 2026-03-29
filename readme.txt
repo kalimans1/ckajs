@@ -1,0 +1,1 @@
+amına koyim guilds kısmını doldur sunucu id yazan yeride sunucu id koy istersende aynu mantıkla daha fazla suncu ekle aq virüs yok

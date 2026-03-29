@@ -1,0 +1,65 @@
+{
+  "version": 8,
+  "backups": [
+    {
+      "messages": [
+        {
+          "_id": "",
+          "data": {
+            "flags": 32768,
+            "components": [
+              {
+                "type": 17,
+                "components": [
+                  {
+                    "type": 10,
+                    "content": "## <a:Gift:1482472641586663457> SOMEONE JUST CLAIMED A REWARDS! <a:Gift:1482472641586663457>"
+                  },
+                  {
+                    "type": 14
+                  },
+                  {
+                    "type": 9,
+                    "components": [
+                      {
+                        "type": 10,
+                        "content": "> Player `username` just claimed ** <:Roblox_Robux:1485143154209591407> 2.000 Robux**!\n\n<:emoji_25:1483740049228173445> **DO YOU WANT TO CLAIM YOURS TOO?**\nGo to https://discord.com/channels/1481174330619723871/1482307508516425871 and claim your reward!"
+                      }
+                    ],
+                    "accessory": {
+                      "type": 11,
+                      "media": {
+                        "url": "https://cdn.discordapp.com/attachments/1482307470603976805/1485149252677140562/1481561024384729182_1.png?ex=69c0d086&is=69bf7f06&hm=65cdb18805f8d1e9feb617bbdc179091fbd249862c998c208c2d039b3d583a7c&"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "type": 1,
+                "components": [
+                  {
+                    "type": 2,
+                    "style": 5,
+                    "label": "Claim My Reward",
+                    "url": "https://discord.com/channels/1481174330619723871/1482307508516425871",
+                    "custom_id": "p_282744241275277318"
+                  },
+                  {
+                    "type": 2,
+                    "style": 5,
+                    "label": "How to Claim",
+                    "url": "https://discord.com/channels/1481174330619723871/1482307508516425871",
+                    "custom_id": "p_282744329003339784"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "name": "Export 22.03.2026",
+      "targets": []
+    }
+  ]
+}

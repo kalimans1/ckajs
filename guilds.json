@@ -1,0 +1,12 @@
+{
+  "SUNUCU_ID_1": {
+    "selection_channel_id": "SECME_KANAL_ID",
+    "claimed_channel_id": "CLAIMED_KANAL_ID",
+    "claim_url": "https://discord.com/oauth2/authorize?..."
+  },
+  "SUNUCU_ID_2": {
+    "selection_channel_id": "SECME_KANAL_ID",
+    "claimed_channel_id": "CLAIMED_KANAL_ID",
+    "claim_url": "https://discord.com/oauth2/authorize?..."
+  }
+}

